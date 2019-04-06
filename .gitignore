@@ -1,0 +1,7 @@
+__pycache__/
+
+# Docker
+Dockerfile
+
+# AWS Docker deployment config
+Dockerrun.aws.json

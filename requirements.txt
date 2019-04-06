@@ -1,0 +1,10 @@
+autopep8==1.4.3
+Django==2.1.7
+django-cors-headers==2.5.2
+django-rest-auth==0.9.5
+djangorestframework==3.9.2
+djangorestframework-simplejwt==4.1.2
+pycodestyle==2.5.0
+PyJWT==1.7.1
+pytz==2018.9
+six==1.12.0
